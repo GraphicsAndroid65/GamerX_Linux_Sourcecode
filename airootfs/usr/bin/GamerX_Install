@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+import sys
+import runpy
+
+if __name__ == "__main__":
+    sys.argv[0] = "archinstall"
+    runpy.run_module("archinstall", run_name="__main__")
+

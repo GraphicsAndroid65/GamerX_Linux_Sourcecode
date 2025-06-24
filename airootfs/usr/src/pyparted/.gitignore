@@ -1,0 +1,11 @@
+*.pyc
+*.swp
+.coverage
+.tox
+ChangeLog
+MANIFEST
+build
+coverage-report.log
+dist
+pyparted.spec
+tests/pylint/.pylint.d
